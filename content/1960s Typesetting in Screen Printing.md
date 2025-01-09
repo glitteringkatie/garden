@@ -7,7 +7,6 @@ tags:
   - 🌱
 ---
 
-created 2025-01-08, last updated 2025-01-08
 
 [[Wendy MacNaughton]]'s annual [30 days of drawing](https://club.drawtogether.studio/t/30-days-of-drawing-2025) introduced me to [[Corita Kent]].
 
