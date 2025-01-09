@@ -1,5 +1,5 @@
 ---
-title: 1960s Typesetting in Screen Printing
+title: 1960s typesetting in screen printing
 draft: false
 date: 2025-01-08
 status: 🌱
